@@ -44,13 +44,32 @@ new Vue({
         },
 
         {
-          name: "Playing With Fire 🔥",
-          artist: "BlackPink",
-          cover: "https://iili.io/H1hGFK7.jpg",
-          source: "https://audio.jukehost.co.uk/9t8OuMg1bqsR0JtyADcqKaXbTaLvGOkl",
+          name: " Dunki Mp3 Songs",
+          artist: "Arijit Singh - Sonu Nigam - Diljit Dosanjh - Javed Ali - Shadab Faridi - Altamash Faridi - Ajay Bijli",
+          cover: "https://pagalnew.com/coverimages/album/dunki-2023-500-500.jpg",
+          source: "https://pagalnew.com/download128/44907",
           url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
           favorited: false
         },
+       
+        {
+          name: " Dunki Mp3 Songs",
+          artist: "Arijit Singh - Sonu Nigam - Diljit Dosanjh - Javed Ali - Shadab Faridi - Altamash Faridi - Ajay Bijli",
+          cover: "https://pagalnew.com/coverimages/album/dunki-2023-500-500.jpg",
+          source: "https://pagalnew.com/download128/44481,
+          url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
+          favorited: false
+        },
+        
+        {
+          name: " Dunki Mp3 Songs",
+          artist: "Arijit Singh - Sonu Nigam - Diljit Dosanjh - Javed Ali - Shadab Faridi - Altamash Faridi - Ajay Bijli",
+          cover: "https://pagalnew.com/coverimages/album/dunki-2023-500-500.jpg",
+          source: "https://pagalnew.com/download128/44481,
+          url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
+          favorited: false
+        },
+        
         {
           name: "As If It's Your Last",
           artist: "BlackPink",
@@ -59,6 +78,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
           favorited: true
         },
+        
         {
           name: "Boy with Love",
           artist: "BTS",
@@ -67,6 +87,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=XsX3ATc3FbA&ab_channel=HYBELABELS",
           favorited: false
         },
+        
         {
           name: "Dynamite",
           artist: "BTS",
@@ -75,6 +96,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
           favorited: true
         },
+        
         {
           name: "DNA",
           artist: "BTS",
@@ -83,6 +105,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
           favorited: false
         },
+        
         {
           name: "Butter",
           artist: "BTS",
