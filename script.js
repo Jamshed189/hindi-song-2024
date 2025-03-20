@@ -13,7 +13,7 @@ new Vue({
           name: "Ishq Jaisa Kuch ",
           artist: "Hrithik Roshan, Deepika Padukone",
           cover: "https://pagalnew.com/coverimages/ishq-jaisa-kuch-fighter-500-500.jpg",
-          source: "https://pagalnew.com/download128/44934",
+          source: "https://pagalnew.com/128-download/50325",
           url: "https://www.youtube.com/watch?v=TGpG56pg3UU",
           favorited: false
         },
