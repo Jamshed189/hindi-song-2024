@@ -21,7 +21,7 @@ new Vue({
           name: "Sher Khul Gaye",
           artist: "Hrithik Roshan, Deepika Padukone",
           cover: "https://pagalnew.com/coverimages/sher-khul-gaye-fighter-500-500.jpg",
-          source: "https://pagalnew.com/download128/44849",
+          source: "https://pagalnew.com/128-download/50325",
           url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
           favorited: false
         },
